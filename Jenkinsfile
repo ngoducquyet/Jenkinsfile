@@ -10,7 +10,7 @@ pipeline{
                         else
                             println ("Hi Human")
                         sleep 2
-                        echo "end demo now but It will be continue "
+                        echo "27 Aug end demo now but It will be continue"
                         
                     }
                 }
