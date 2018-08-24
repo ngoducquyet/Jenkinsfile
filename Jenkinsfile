@@ -20,6 +20,6 @@ node
     }
     stage("Delivery")
     {
-        echo "Delivery the code"
+        echo "Delivery the code 24 Aug"
     }
 }
