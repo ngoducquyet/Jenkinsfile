@@ -1,0 +1,17 @@
+{
+  "name": "dich_vu_du_lieu",
+  "version": "22.22.82",
+  "description": "Dịch vụ dữ liệu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "12345"
+  ],
+  "author": "natuan",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.6"
+  }
+}
